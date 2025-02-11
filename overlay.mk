@@ -280,6 +280,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-vivo-y20 \
 	treble-overlay-vivo-y20-systemui \
 	treble-overlay-vivo-y31 \
+	treble-overlay-vivo-iqoo1 \
 	treble-overlay-vsmart-active3 \
 	treble-overlay-vsmart-joy3 \
 	treble-overlay-vsmart-live \
