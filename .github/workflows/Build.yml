@@ -1,4 +1,4 @@
-name: iqoo
+name: overlay
 
 on:
   pull_request:
