@@ -20,6 +20,7 @@ jobs:
     - name: Build APK's
       run: |
         cd build
+        sudo chmod 777 *
         bash build.sh
 
     - name: Upload APK
