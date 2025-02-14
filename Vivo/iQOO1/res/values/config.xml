@@ -73,6 +73,7 @@
         <item>1980</item>
         <item>250</item>
     </integer-array>
+    <integer name="config_udfpsEnrollProgressBar" translatable="false">255</integer>
     <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
 
     <integer translatable="false" name="config_brightness_ramp_rate_fast">180</integer>
